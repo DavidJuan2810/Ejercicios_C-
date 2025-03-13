@@ -6,5 +6,5 @@ void sumaN(int n){
     for(int i=0;i<=n;i++){
         suma+=i;
     }
-    cout <<"el valor sumado es: " <<suma;
+    cout <<"el valor sumado es de: " <<suma;
 }

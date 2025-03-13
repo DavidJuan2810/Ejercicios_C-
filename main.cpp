@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int n;
-    cout <<"Ingrese un numero: ";
+    cout <<"Ingrese el numero que desee: ";
     cin >>n;
     sumaN(n);
 
